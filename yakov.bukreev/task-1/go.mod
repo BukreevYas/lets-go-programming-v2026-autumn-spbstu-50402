@@ -1,3 +1,3 @@
-module task-1
+module github.com/BukreevYas/task-1
 
 go 1.27.1
