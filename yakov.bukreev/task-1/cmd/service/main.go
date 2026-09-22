@@ -4,8 +4,7 @@ import "fmt"
 
 func main() {
 	var (
-		a      int
-		b      int
+		a, b   int
 		op     string
 		result int
 	)
